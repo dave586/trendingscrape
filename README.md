@@ -1,3 +1,3 @@
-# tta
+# scraping the trending topic from google
 
 For the data collection part, I utilized pytrends as a base, and it seems to be the better API for getting google trending keywords, among others. The idea behind this was the ease of use and modifiability, where the package is light and concise. It took roughly an hour or so I had spent on it. To get the treding phase, there are many other ways. At first, I thought of using Selenium, which utilizes scraping and more incumbent. Then gtrends comes to mind, but it was a bit more work than I expected and less functionality in comparison. To execute it is very simple was coded in python and using jupyter notebook, but also could be run on google colab notebook. 
